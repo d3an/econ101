@@ -1,5 +1,14 @@
 "Scarcity" -> Choice -> "Opportunity Cost": 
+"Marginal Analysis"
     - Microeconomics: The study of individual consumers, workers, producers, businesses, industries, etc.
     - Macroeconomics: The study of economy as a whole. Growth of economy-wide production, changes in unemployment, rates of inflation, etc.
 
-Marginal Analysis
+Factors of Production or Resources (Land, Labour, Capital Entrepreneurship)
+    -> Production -> Output (goods+services OR commodities)
+
+Marginal Benefit:
+    - Movie Shown: {1, 2, 3, 4}
+    - Marginal Benefit: {100, 80, 50, 10}
+    - Marginal Cost: {50, 70, 80, 110}
+    - GRAPHS can be found in Ch.1, Slide 15 & Slide 17
+    
