@@ -1,0 +1,5 @@
+"Scarcity" -> Choice -> "Opportunity Cost": 
+    - Microeconomics: The study of individual consumers, workers, producers, businesses, industries, etc.
+    - Macroeconomics: The study of economy as a whole. Growth of economy-wide production, changes in unemployment, rates of inflation, etc.
+
+Marginal Analysis
