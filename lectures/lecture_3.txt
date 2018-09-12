@@ -22,9 +22,9 @@ Bio_score
     |                  XXX
     |                   XXXX
   50|                      XXX
-    |                       XXXX    PPF
-    |                         XXX   +
-    |                          XXX <+
+    |                       XXXX  <-- PPF
+    |                         XXX   
+    |                          XXX 
     |                           XXX
     |                            XXX
     |                             XX
@@ -34,4 +34,8 @@ Bio_score
 
 Negative/Inverse relationship between the two scores (output)
 PPF: an economic model showing possible combinations of outputs given the full use of inputs of technology
+
+Shifts in PPF:
+1. Improvement in productivity/efficiency/technology
+2. Increase in Time / Increase in Resources/inputs
 
