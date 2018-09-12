@@ -1,0 +1,37 @@
+Readings: Chapter 1/2
+HW: Due Sept 17, 9am
+Ch.2: in-text questions
+
+Chapter 2: Production Possibilities Frontier (PPF): 
+
+An Economic Model (Example)
+Problem: We want to figure out how to best use your time to study for 2 exams.
+Two exams: Economics & Biology
+Six Hours of study available this week
+Hours_spent: {0,1,2,3,4,5,6}
+Bio_scores: {0,25,50,70,85,90,95}
+Econ_scores: {0,25,50,70,85,90,95}
+
+Bio_score
+ 100+
+    XXXXXXX
+    |    XXXXXXX
+    |       XXXXXXX
+    |             XXXX
+    |                XXXX
+    |                  XXX
+    |                   XXXX
+  50|                      XXX
+    |                       XXXX    PPF
+    |                         XXX   +
+    |                          XXX <+
+    |                           XXX
+    |                            XXX
+    |                             XX
+    |                              XX
+   0+--------------------------------X+100
+    0              50             Econ_score
+
+Negative/Inverse relationship between the two scores (output)
+PPF: an economic model showing possible combinations of outputs given the full use of inputs of technology
+
